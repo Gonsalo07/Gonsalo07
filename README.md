@@ -2,9 +2,6 @@
 
 <p>I'm a programmer in training and passionate about software development. I love solving problems, learning new technologies, and creating impactful solutions.</p>
 
-<h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
-<p align="left"> 
-
 ## 🖥️ Programming Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
