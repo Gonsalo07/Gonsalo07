@@ -17,6 +17,7 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=Cloudinary&logoColor=white)
 
 ## 🖥️ Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -24,10 +25,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## 🛠️ Tools:
+## 🛠️ Tools & DevOps:
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📌 Agile Methods:
+## 🏗️ Architecture & Agile Methods:
+![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge&logo=microservices&logoColor=white)
 ![Scrum](https://img.shields.io/badge/scrum-%230A97D9.svg?style=for-the-badge)
 
 
