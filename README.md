@@ -1,8 +1,6 @@
-# Hi I'm Gonsalo Gonzales 👋
+# Hi I'm Gonsalo Gonzales 👋 - <a href="https://portafolio-web-gonsalo.vercel.app" target="_blank" rel="noreferrer">Portafolio Web</a>
 
-<p>I'm a programmer in training and passionate about software development. I love solving problems, learning new technologies, and creating impactful solutions.
-<a href="https://portafolio-web-gonsalo.vercel.app" target="_blank" rel="noreferrer">Portafolio Web</a>
-</p>
+<p>I'm a programmer in training and passionate about software development. I love solving problems, learning new technologies, and creating impactful solutions.</p>
 
 ## 🖥️ Programming Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
